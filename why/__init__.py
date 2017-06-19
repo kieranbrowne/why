@@ -1,3 +1,6 @@
+# import tensorflow as tf
 
-def world():
-    print("Hello, World")
+def why(out,inmap):
+    """Returns an explanation of output for input"""
+    return out.op.inputs
+
