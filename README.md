@@ -1,7 +1,7 @@
 # Why?
 
 ## Usage
-```
+```python
 import tensorflow as tf
 from why import why
 
